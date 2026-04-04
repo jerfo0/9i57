@@ -14,6 +14,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/yu-ai-xie-zuo-jie-jue-wen-ti/</loc>
+        <lastmod>2026-04-04</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/zi-jian-skill-fa-bu-wen-zhang/</loc>
+        <lastmod>2026-04-04</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/miejiang01/</loc>
         <lastmod>2022-03-17</lastmod>
         <changefreq>always</changefreq>
