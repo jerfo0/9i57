@@ -33,6 +33,11 @@ external_links = [
 ]
 nav = [
     {
+        "name": "主站",
+        "url": "https://www.9i57.com/",
+        "target": "_self"
+    },
+    {
         "name": "首页",
         "url": "${site_prefix}",
         "target": "_self"
