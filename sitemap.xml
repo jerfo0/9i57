@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/guan-yu-yu-mi-de-hui-yi/</loc>
+        <lastmod>2026-04-05</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/github-actions-gou-jian-shi-bai-pai-cha-ji/</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>always</changefreq>
