@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/ai-re enthusiasm-and-reflection/</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/lai-zhao-cha/</loc>
         <lastmod>2026-04-09</lastmod>
         <changefreq>always</changefreq>
