@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/yi-zheng-wan-de-meng-ding-lou-wa-pian-lu-tai/</loc>
+        <lastmod>2026-04-17</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/fang-man-jiao-bu-bu-ji-bu-zao/</loc>
         <lastmod>2026-04-14</lastmod>
         <changefreq>always</changefreq>
