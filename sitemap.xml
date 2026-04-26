@@ -126,6 +126,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2025-11-26-you-bi-yao-xie-xie-le/</loc>
+        <lastmod>2025-11-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2025-10-07-wei-ai-wan-qi/</loc>
+        <lastmod>2025-10-07</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/miejiang01/</loc>
         <lastmod>2022-03-17</lastmod>
         <changefreq>always</changefreq>
