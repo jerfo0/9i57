@@ -20,10 +20,14 @@ jobs:
         cd ./Maverick
         python -m pip install --upgrade pip
         pip install -r prod_req.txt
+        pip install pyyaml
     - name: Build site
       run: |
         cd ./Maverick
         python ./build.py -c "../conf.py"
+    - name: Generate mp-articles-manifest for WeChat miniprogram
+      run: |
+        python ./tools/gen_mp_articles_manifest.py
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
