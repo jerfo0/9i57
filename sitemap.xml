@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/you-yu-you-xi-guan-hou-gan/</loc>
+        <lastmod>2026-05-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/zhi-dao-zi-ji-zhen-zheng-xiang-yao-de-dong-xi/</loc>
         <lastmod>2026-05-16</lastmod>
         <changefreq>always</changefreq>

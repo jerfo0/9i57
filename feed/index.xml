@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 17 May 2026 03:49:07 +0806</lastBuildDate><pubDate>Sun, 17 May 2026 03:49:07 +0806</pubDate><item><title>AI自动化任务的困境</title><link>/archives/ai-zi-dong-hua-ren-wu-de-kun-jing/</link><description>&lt;p&gt;最近公司要我做一个代报名的AI自动化任务，对于人眼看到的只是一个信息录入报表和上传几个文件，但是对程序来说是一道非常复杂的流程。&lt;/p&gt;
-&lt;p&gt;没有标准的接口，每一个字段都需要不断的尝试，而且网站稍微有点问题就出故障，但AI能做到也是强大，只是经常说步骤太多中止任务，我本来就是要做一个持续不断执行的自动化任务，步骤肯定多了。&lt;/p&gt;
-&lt;p&gt;也不知道是不是方法出错了。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/ai-zi-dong-hua-ren-wu-de-kun-jing/</guid><pubDate>Sat, 09 May 2026 13:35:00 +0806</pubDate></item><item><title>Playwright录制让AI理解浏览器操作</title><link>/archives/playwright-lu-zhi-rang-ai-li-jie-liu-lan-qi-cao-zuo/</link><description>&lt;p&gt;今天掌握了一项新技能，就是用AI会经常处理一些浏览器自动化的内容，AI对于理解这种操作要比人走的路径长非常多，遇到的困难也非常多，要让其理解，我们可以使用Playwright录制功能，这个录制功能会记录人类操作的每一步的代码实现，通过这些代码，自动化任务或者AI就容易理解是怎么去操作的，而不是不断地对屏幕进行截图，通过截图理解并确认自己有没有录入完成。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 18 May 2026 04:49:25 +0806</lastBuildDate><pubDate>Mon, 18 May 2026 04:49:25 +0806</pubDate><item><title>Playwright录制让AI理解浏览器操作</title><link>/archives/playwright-lu-zhi-rang-ai-li-jie-liu-lan-qi-cao-zuo/</link><description>&lt;p&gt;今天掌握了一项新技能，就是用AI会经常处理一些浏览器自动化的内容，AI对于理解这种操作要比人走的路径长非常多，遇到的困难也非常多，要让其理解，我们可以使用Playwright录制功能，这个录制功能会记录人类操作的每一步的代码实现，通过这些代码，自动化任务或者AI就容易理解是怎么去操作的，而不是不断地对屏幕进行截图，通过截图理解并确认自己有没有录入完成。&lt;/p&gt;
 &lt;p&gt;这还是一个非常不错的技能，当然成果如何，目前也还不知道。&lt;/p&gt;
 </description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/playwright-lu-zhi-rang-ai-li-jie-liu-lan-qi-cao-zuo/</guid><pubDate>Sat, 09 May 2026 15:10:00 +0806</pubDate></item><item><title>忘了设闹钟</title><link>/archives/wang-le-she-nao-zhong/</link><description>&lt;p&gt;我竟然忘了设闹钟，我昨天晚上明明记得是自己设了闹钟的，但早上一起来发现9点钟了，然后立马请了半天的假。&lt;/p&gt;
 &lt;p&gt;嗯，这说明最近的睡眠时间可能还是不足，一睡觉就睡到9点。昨天晚上还是11点钟睡的，我感觉可能最近作息是不太规律，睡眠还是不足，可能还是要调整一下，要让这个睡眠变得更加的充足。&lt;/p&gt;
@@ -33,4 +30,14 @@
 &lt;p&gt;所以我想要存钱，想要让钱自己去产生收益，而不是不断的去支付利息，消费的话也尽量不去消费，很多消费也是不必要的，相反我们应该减少我们拥有的东西，自己真正用的舒服，喜欢的才留在身边，其实选择朋友也是类似的，我们应该有选择的与朋友交往，选择正确的朋友交往。拥有的东西越少，有的羁绊越少，你会越加的自由，真正值得你羁绊，拥有的羁绊人一生也是不多的，而且这些并不影响你当下的生活。&lt;/p&gt;
 &lt;p&gt;所以不要跟人攀比，不要把自己弄的那么累，不要觉得这不满足，那不满足的，好好的活在当下，多学学自己感兴趣的知识，多仰望星空。&lt;/p&gt;
 &lt;p&gt;我之前跟AI来过一次对谈，问的是100年后这个世界会怎么样，其实有很多可能性，甚至真实发生的完全不是我们现在预测到的可能性，就像1926的人也完成想象不到现在的互联网，现在的AI的情况一样的，所以未来一定是值得期待的，一定是充满想象的，这个世界一点也不无聊，非常有趣，非常非常值得我们去探索，去学习，去经历的。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/zhi-dao-zi-ji-zhen-zheng-xiang-yao-de-dong-xi/</guid><pubDate>Sat, 16 May 2026 14:24:00 +0806</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/zhi-dao-zi-ji-zhen-zheng-xiang-yao-de-dong-xi/</guid><pubDate>Sat, 16 May 2026 14:24:00 +0806</pubDate></item><item><title>鱿鱼游戏观后感</title><link>/archives/you-yu-you-xi-guan-hou-gan/</link><description>&lt;p&gt;昨天看了鱿鱼游戏第二季和最终季，这种讲人性的剧看着还蛮引人深思的。克服自己的人性需要很强的能力，否则人在欲望面前是很难自控的，会一步一步被拉向深渊。&lt;/p&gt;
+&lt;h2&gt;贪婪的本性&lt;/h2&gt;
+&lt;p&gt;人就是有贪婪的本性的。比如对于很饥饿的人，面对面包和彩票时，大部分会选择彩票。人总是相信自己的运气会更好，没想到成功的概率就是那么低，永远看向少的那一部分，而不看向多的那一部分。&lt;/p&gt;
+&lt;p&gt;而对于风险又恰恰相反，比如得癌症的概率、出意外的概率，会看向多的那一部分，而不看向少的那部分，认为这种坏事情不会发生在自己的身上。&lt;/p&gt;
+&lt;h2&gt;规则与公平&lt;/h2&gt;
+&lt;p&gt;这个时间是按照一定的规则进行的，只有少数人会游离在规则之外，所以我们应该尊重规则，这也是鱿鱼游戏能成立的原因之一——大家都充分的尊重规则。规则本身是不存在公平的，只是相对的公平。&lt;/p&gt;
+&lt;p&gt;我觉得现实中，也不会带着英雄主义第二次返场鱿鱼游戏的情况。每个人都要为自己的选择负责，别人不会对于你的选择去负责，我们也不要为了别人的选择而自责。某种游戏规则下会有某种不同的生存和生活规则，只是我们以现实的标准下去看鱿鱼游戏觉得残酷，觉得不可理解。&lt;/p&gt;
+&lt;p&gt;就像我们以现在的标准去看奴隶社会同样觉得不可理解一样，觉得那样的社会很残酷。我想也许若干年后后人看我们现在的生活方式、法律道德标准，同样觉得不可理喻。&lt;/p&gt;
+&lt;h2&gt;不要有赌博心态&lt;/h2&gt;
+&lt;p&gt;人不能有赌博心态，但能进入鱿鱼游戏的都是进入绝境的。有赌博心态的人，有些人是因为突发事故，比如重病需要钱，这个也是因为我们觉得那种意外可能不会发生在我们身上导致的。大多还是贪婪的赌博心态，这种人大概率后面是过的很惨的。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/you-yu-you-xi-guan-hou-gan/</guid><pubDate>Mon, 18 May 2026 12:45:00 +0806</pubDate></item></channel></rss>
