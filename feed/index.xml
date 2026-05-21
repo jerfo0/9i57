@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Wed, 20 May 2026 13:47:00 +0806</lastBuildDate><pubDate>Wed, 20 May 2026 13:47:00 +0806</pubDate><item><title>AI做小程序</title><link>/archives/ai-zuo-xiao-cheng-xu/</link><description>&lt;p&gt;最近用AI做了几个小程序，发现用AI做小程序还是挺方便的。当然，我这些小程序都是挺简单的，但我感觉如果使用AI的一些工具，AI编程的一些工具，制作更复杂的小程序也是完全没问题的。&lt;/p&gt;
-&lt;p&gt;这种实践让我证明了，完全不懂代码的人也可以快速地对一些产品做出一些产出。我现在是做了3个小程序，但是我感觉已经验证了这种功能之后，我不应该再继续在这里花费时间了。应该更多地想想，学习更多其他AI相关的一些应用。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/ai-zuo-xiao-cheng-xu/</guid><pubDate>Mon, 11 May 2026 09:57:00 +0806</pubDate></item><item><title>减肥碎碎念</title><link>/archives/jianfei/</link><description>&lt;p&gt;今天有两个很久没见的朋友说我长胖了，看来确实长胖了。我感觉最近也没有胡吃海喝呀，不过有一点确实是最近吃肉吃得比较多，肚子也确实是有游泳圈了。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 21 May 2026 01:40:53 +0806</lastBuildDate><pubDate>Thu, 21 May 2026 01:40:53 +0806</pubDate><item><title>减肥碎碎念</title><link>/archives/jianfei/</link><description>&lt;p&gt;今天有两个很久没见的朋友说我长胖了，看来确实长胖了。我感觉最近也没有胡吃海喝呀，不过有一点确实是最近吃肉吃得比较多，肚子也确实是有游泳圈了。&lt;/p&gt;
 &lt;p&gt;除了吃肉以外，我觉得可能还是跟最近运动比较少有关系。坐得太多了，因为经常在尝试使用AI，研究小龙虾，在家里运动的时间变少了。这是一个很好的警示呀，这么多朋友说我长胖了，我是应该要好好减肥了，努力减肥吧。&lt;/p&gt;
 &lt;p&gt;我在想我变胖是不是因为自己没有理头发也有关系呢？哎呀，别给自己找借口了，赶紧运动起来吧。&lt;/p&gt;
 &lt;p&gt;今晚用Cursor写了一下小程序，发现也很不错呢。Claude Code和Codex也都使用过，无奈免费用量也太少了。扣子编程也用过但功能很差，那就试试Cursor能不能好好用吧。还有要了解一下大陆好不好开通Cursor的付费，免费的用完再说吧。&lt;/p&gt;
@@ -43,4 +41,8 @@
 &lt;p&gt;也不知道这种反应是不是正常的，后来问了一下蚂蚁阿福，说这属于正常现象。咖啡本来就有利尿效果，所以也就没那么奇怪了。&lt;/p&gt;
 &lt;p&gt;少喝奶茶这件事，也算是给自己省了很大一笔支出。奶茶喝多了还容易胖，这样想来，少喝也不算什么坏事。&lt;/p&gt;
 &lt;p&gt;平时出门渴了就是喝水，简单省事，也不用担心别的。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/guan-yu-yin-liao-yu-shang-ce-suo/</guid><pubDate>Wed, 20 May 2026 21:40:00 +0806</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/guan-yu-yin-liao-yu-shang-ce-suo/</guid><pubDate>Wed, 20 May 2026 21:40:00 +0806</pubDate></item><item><title>热天与浅梦</title><link>/archives/re-tian-yu-qian-meng/</link><description>&lt;p&gt;今天好热，而且我感觉没什么精神，跟昨天做的一个梦有关系吧，最近做梦有点频繁了，不知道是不是因为天气变热的缘故。&lt;/p&gt;
+&lt;p&gt;昨天的梦很奇怪，似乎是说睡觉有很多种方式，我一般是某种方式睡觉，但突然有另一种方式产生，一系列的睡觉方式或姿势唯独是那个睡觉方式就很特别，那种方式好像阻止了我好好睡觉，可能是习惯或者强迫症的关系。就这样做着梦，这个梦导致我睡眠很浅，感觉有时候还短暂地醒了一两次。&lt;/p&gt;
+&lt;p&gt;所以早上起来后，也没多大的精神，就觉得有点累，有点没睡好。再加上今天又比较热，前几天还感叹今年的气温比较舒适呢，但说不定会非常非常的热呢。&lt;/p&gt;
+&lt;p&gt;今年根据预测是说气候比较极端的一年，热起来可能还没到最热的时候。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/re-tian-yu-qian-meng/</guid><pubDate>Thu, 21 May 2026 09:38:00 +0806</pubDate></item></channel></rss>
