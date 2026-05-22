@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 21 May 2026 14:36:47 +0806</lastBuildDate><pubDate>Thu, 21 May 2026 14:36:47 +0806</pubDate><item><title>最近很困</title><link>/archives/zui-jin-hen-kun/</link><description>&lt;p&gt;这几天感觉很困，有点觉得睡眠不够，不知道是运动太少了，还是5.1的时候出行熬夜了几天，抑或是因为现在换季的缘故吗？&lt;/p&gt;
-&lt;p&gt;是要好好反思，然后把作息时间调整，把状态调整好，我想是应该好好运动了，可能身体的细胞缺乏活动，缺乏活力了，最近是日常运动越来越少了，无论是在家里，还是出去跑步都比较少，都已经很久没有跑步了。&lt;/p&gt;
-&lt;p&gt;特别佩服上班路上经常遇到的一个女孩，我几乎有一半的机率在上班的路上碰到她跑步了，而且她跑步的距离还不少，是应该学习学习别人家。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/zui-jin-hen-kun/</guid><pubDate>Wed, 13 May 2026 09:08:00 +0806</pubDate></item><item><title>关于重复与刺激</title><link>/archives/guan-yu-zhong-fu-yu-ci-ji/</link><description>&lt;p&gt;人好像天然不喜欢做重复性的工作，天性里会追求新奇、刺激性、有成就感的事情，最近闲暇时间研究AI的事情特别多，研究的时候还是特别起劲，做完之后感觉情绪积极值会下降。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 22 May 2026 05:50:22 +0806</lastBuildDate><pubDate>Fri, 22 May 2026 05:50:22 +0806</pubDate><item><title>关于重复与刺激</title><link>/archives/guan-yu-zhong-fu-yu-ci-ji/</link><description>&lt;p&gt;人好像天然不喜欢做重复性的工作，天性里会追求新奇、刺激性、有成就感的事情，最近闲暇时间研究AI的事情特别多，研究的时候还是特别起劲，做完之后感觉情绪积极值会下降。&lt;/p&gt;
 &lt;p&gt;有种突然不知道干啥的感觉，可能是因为发现了新大陆的惊喜突然完成了，后面就进入了下降的坡度了吗？可能就是这样的，人总是想要寻求新的刺激的。&lt;/p&gt;
 &lt;p&gt;但平凡和正常的情绪波动才是生活的常态，重复性的事务也是生活的常态，我们都是慢慢的稳定的上升的，否则突然攀升，身心不适应容易出问题，还容易跌倒下去，持续的心态调整非常重要。&lt;/p&gt;
 &lt;p&gt;为什么冥想利于身心健康，可能就是为了让身体，心理平复下来，放缓一些。&lt;/p&gt;
@@ -44,4 +41,8 @@
 &lt;p&gt;大部分人是得不到太多的人夸赞的，特别是你与别人差的并不算远的时候，人喜欢赞美和崇拜的是哪些与对方差距相当远的人，只有感觉对方离自己很远，我们才会去仰望。&lt;/p&gt;
 &lt;p&gt;所以人一方面要做到不依赖别人的眼光和评价做事，另一方面要凭着热爱去做事。试图从自己做的事情，和必须做的事情中寻找到让自己感到满意，感到开心的事情，我对当下自己做的事情感到满意吗？我是在做自己热爱的事情吗？有的时候偶尔停下来回顾自己走过的路，经历过的事情，还是觉得挺有意思的，挺有趣的，也没有特别后悔的地方。&lt;/p&gt;
 &lt;p&gt;偶尔看看过去的路，然后转身继续往前走，不要去走明显是犯蠢的道路就好了。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/zheng-xiang-fan-kui-yu-re-ai/</guid><pubDate>Thu, 21 May 2026 22:35:00 +0806</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/zheng-xiang-fan-kui-yu-re-ai/</guid><pubDate>Thu, 21 May 2026 22:35:00 +0806</pubDate></item><item><title>片荒与AI推荐影片</title><link>/archives/pian-huang-yu-ai-tui-jian-ying-pian/</link><description>&lt;p&gt;我经常会遇到片荒，剧荒的情况，最近用PT在客厅下载影视，但是不经历过推荐的影片在观看的时候很难受，就像是在餐馆吃饭吃到一粒老鼠屎一样难受。&lt;/p&gt;
+&lt;p&gt;于是萌生一个想法，干嘛不做一个agents呢，可以让它给我推荐影片，推荐之前首先要先了解我喜欢哪些影片，看过哪些影片，而且喜欢的程度有多个，然后再利用AI根据相关性给我推荐可以看的影片。&lt;/p&gt;
+&lt;p&gt;嗯，确实，这个做起来是不难，但是中午休息的时候，我跟AI进行了一场对话，就是根据它的第一批推荐，我说我看过哪些，特别喜欢哪些，这样一轮一轮的来，它也推荐了很多我没看过，看简介我有点感兴趣的影片，我倒是蛮满意的，到PT里去下载了，期待后面看看这些影片，是不是我真的喜欢的类型吧。&lt;/p&gt;
+&lt;p&gt;所以有的时候，可能并不是每个想法都应该做成一个产品，虽然现在做一个产品的门槛很低，但可能是需求并不强烈，我知道我可能看到AI这么厉害，门槛这么低，可能总想做点什么？有这样的想法是对的，但不要为了这种状态而焦虑，更重要的是掌握使用的方法和思维，有项目能实际去执行是更好的了，但这个也是不能强求的。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/pian-huang-yu-ai-tui-jian-ying-pian/</guid><pubDate>Fri, 22 May 2026 13:44:00 +0806</pubDate></item></channel></rss>
