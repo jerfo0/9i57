@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/men-re-de-tian-yu-jia-ren-de-yue-ding/</loc>
+        <lastmod>2026-05-23</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/pian-huang-yu-ai-tui-jian-ying-pian/</loc>
         <lastmod>2026-05-22</lastmod>
         <changefreq>always</changefreq>
