@@ -3,45 +3,47 @@ on:
   push:
     branches:
       - source
-      
-# ✅ 添加权限
+
 permissions:
   contents: write
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
-# ✅ 可选：消除 Node.js 20 弃用警告
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-      
     steps:
     - uses: actions/checkout@v4
       with:
         submodules: recursive
-        token: ${{ secrets.GITHUB_TOKEN }}   # ✅ 改这里
+        token: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Set up Python 3.10
       uses: actions/setup-python@v5
       with:
         python-version: "3.10"
+
     - name: Install dependencies
       run: |
         cd ./Maverick
         python -m pip install --upgrade pip
         pip install -r prod_req.txt
         pip install pyyaml
+
     - name: Build site
       run: |
         cd ./Maverick
         python ./build.py -c "../conf.py"
+
     - name: Generate mp-articles-manifest for WeChat miniprogram
       run: |
         python ./tools/gen_mp_articles_manifest.py
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
-        personal_token: ${{ secrets.PERSONAL_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}   # ✅ 关键修改
         publish_branch: gh-pages
         publish_dir: ./dist
         allow_empty_commit: false
