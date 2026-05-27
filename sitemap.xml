@@ -1274,8 +1274,71 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2022-03-31-xia-yi-jiu-shi-wo-le/</loc>
+        <lastmod>2022-03-31</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2022-03-28-shi-jin-ru-le-ping-jing-qi-ma-？/</loc>
+        <lastmod>2022-03-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2022-03-22-min-hang-shi-gu/</loc>
+        <lastmod>2022-03-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2022-03-22-pan-hong-jiang-li-zhi/</loc>
+        <lastmod>2022-03-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2022-03-18-re/</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/miejiang01/</loc>
         <lastmod>2022-03-17</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2022-03-14-gu-shi-da-die/</loc>
+        <lastmod>2022-03-14</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2022-03-13-zuo-tian-de-meng/</loc>
+        <lastmod>2022-03-13</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2022-03-10-du-shu/</loc>
+        <lastmod>2022-03-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2022-03-08-dang-ni-jue-de-gou-de-zhao-de-shi-hou-，-sheng-huo-you-gei-ni-yi-men-gun/</loc>
+        <lastmod>2022-03-08</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
