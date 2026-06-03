@@ -41,7 +41,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r prod_req.txt
         pip install pyyaml
-        pip install "pytz==2023.3"
+        pip install "pytz==2023.3" --force-reinstall    # ✅ 放最后，加 --force-reinstall
 
     - name: Build site
       run: |
