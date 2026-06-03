@@ -3,13 +3,16 @@ on:
   push:
     branches:
       - source
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
     - name: Checkout
       uses: actions/checkout@v4
@@ -38,8 +41,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r prod_req.txt
         pip install pyyaml chardet
-        pip uninstall pytz -y
-        pip install "pytz==2021.3" --no-deps
+
+    - name: Patch moment library
+      run: |
+        MOMENT_PATH=$(python -c "import moment; import os; print(os.path.dirname(moment.__file__))")
+        sed -i 's/self._date = pytz.timezone(zone).normalize(self._date)/self._date = pytz.timezone(zone).localize(self._date.replace(tzinfo=None))/g' "$MOMENT_PATH/core.py"
 
     - name: Build site
       run: |
