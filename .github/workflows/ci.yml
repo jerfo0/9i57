@@ -60,5 +60,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r prod_req.txt
         pip install pyyaml
+        pip install chardet                            # ✅ 补上 chardet
         pip install "moment==0.12.1" --force-reinstall
-        pip install "pytz==2021.3" --force-reinstall   # ✅ 必须放最后
+        pip install "pytz==2021.3" --force-reinstall   # ✅ 保持在最后
