@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/理解与接纳：人与人之间本就不同/</loc>
+        <lastmod>2026-06-02</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/lian-pa-liang-zuo-shan-hou-de-pi-bei-fan-si/</loc>
         <lastmod>2026-06-01</lastmod>
         <changefreq>always</changefreq>
@@ -1528,6 +1535,48 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>/archives/2022-01-03-cui-hun/</loc>
         <lastmod>2022-01-03</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-12-25-shi-kong/</loc>
+        <lastmod>2021-12-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-12-24-24-zhong-ren-ge/</loc>
+        <lastmod>2021-12-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-12-21-mei-you-an-quan-gan-le/</loc>
+        <lastmod>2021-12-21</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-12-15-yao-qu-zuo-yi-ge-wei-chang-jing-le/</loc>
+        <lastmod>2021-12-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-12-09-jiao-lv-yuan-yu-wo-men-bei-“-chao-liu-”-tui-zhao-zou/</loc>
+        <lastmod>2021-12-09</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-12-07-zui-jin-shi-you-dian-mang-le/</loc>
+        <lastmod>2021-12-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
