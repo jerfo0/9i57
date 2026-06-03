@@ -3,24 +3,21 @@ on:
   push:
     branches:
       - source
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        submodules: false                        # ✅ 先不拉 submodule
+        submodules: false
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Fetch submodules with retry        # ✅ 加重试逻辑
+    - name: Fetch submodules with retry
       run: |
         git submodule sync --recursive
         for i in 1 2 3 4 5; do
@@ -35,6 +32,13 @@ jobs:
       with:
         python-version: "3.10"
 
+    - name: Install dependencies        # ✅ 移到 Build site 前面
+      run: |
+        cd ./Maverick
+        python -m pip install --upgrade pip
+        pip install -r prod_req.txt
+        pip install pyyaml chardet
+        pip install "pytz==2021.3" --ignore-installed
 
     - name: Build site
       run: |
@@ -52,12 +56,3 @@ jobs:
         publish_branch: gh-pages
         publish_dir: ./dist
         allow_empty_commit: false
-
-
-    - name: Install dependencies
-      run: |
-        cd ./Maverick
-        python -m pip install --upgrade pip
-        pip install -r prod_req.txt
-        pip install pyyaml chardet
-        pip install "pytz==2021.3" --ignore-installed
