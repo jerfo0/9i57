@@ -1708,8 +1708,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2021-10-30-long-quan-shan-lu-ying/</loc>
+        <lastmod>2021-10-30</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/yanhu/</loc>
         <lastmod>2021-10-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-10-26-jin-yu/</loc>
+        <lastmod>2021-10-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
@@ -1722,8 +1736,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2021-10-24-ping-ping-jie-yao-jie-hun-le/</loc>
+        <lastmod>2021-10-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-10-20-hun-yin/</loc>
+        <lastmod>2021-10-20</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-10-18-zhui-qiu-wan-mei-de-ren-de-tong-ku-shi-：-jie-shou-bu-wan-mei/</loc>
+        <lastmod>2021-10-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-10-16-mei-tian-du-yao-qiang-po-zi-ji-zuo-1\-2-jian-zi-ji-bu-xiang-zuo-de/</loc>
+        <lastmod>2021-10-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/jianchazi/</loc>
         <lastmod>2021-10-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-10-14-1、-bu-yao-qiong-tu-mo-lu/</loc>
+        <lastmod>2021-10-14</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-10-12-shuo-shuo-zui-jin-fa-sheng-de-ji-jian-fan-xin-shi/</loc>
+        <lastmod>2021-10-12</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2021-10-07-shi-nian-zai-jian/</loc>
+        <lastmod>2021-10-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
