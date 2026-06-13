@@ -2569,8 +2569,113 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2020-12-31-2020-nian-de-zui-hou-yi-tian/</loc>
+        <lastmod>2020-12-31</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-26-yue-du/</loc>
+        <lastmod>2020-12-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-25-niu-gou-jie-qian/</loc>
+        <lastmod>2020-12-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-24-bu-yao-yu-ren-zheng-lun/</loc>
+        <lastmod>2020-12-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-23-gong-si-lou-xia-shai-tai-yang-zhen-shu-fu/</loc>
+        <lastmod>2020-12-23</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-21-hao-ji-zhou-mei-you-chu-men-le/</loc>
+        <lastmod>2020-12-21</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/dianchi/</loc>
         <lastmod>2020-12-19</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-19-qu-le-yue-nan-gu-niang-de-jiu-jiu/</loc>
+        <lastmod>2020-12-19</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-18-yi-gu-nan-yi-yi-zhi-de-nu-huo/</loc>
+        <lastmod>2020-12-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-17-fei-chang-you-yi-si-de-wen-zhang-he-liao-tian/</loc>
+        <lastmod>2020-12-17</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-16-shu-shi-qu/</loc>
+        <lastmod>2020-12-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-14-leng/</loc>
+        <lastmod>2020-12-14</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-11-zi-lv-，-zi-lv-，-zi-lv/</loc>
+        <lastmod>2020-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-10-wo-ye-qu-zuo-he-suan-jian-ce-le/</loc>
+        <lastmod>2020-12-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-08-yi-qing/</loc>
+        <lastmod>2020-12-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-12-03-zhe-ji-tian-yu-jia-ren-lian-xi-bi-jiao-pin-fan/</loc>
+        <lastmod>2020-12-03</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
