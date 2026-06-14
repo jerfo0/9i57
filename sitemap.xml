@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/sha-he-qi-xing/</loc>
+        <lastmod>2026-06-14</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/2026-06-13-yang-wang-xing-kong/</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>always</changefreq>
@@ -2681,8 +2688,64 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2020-11-30-jin-tian-er-ge-da-lai-dian-hua-，-liao-le-hen-jiu/</loc>
+        <lastmod>2020-11-30</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-29-zi-lv-hen-zhong-yao/</loc>
+        <lastmod>2020-11-29</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-27-xiao-wu/</loc>
+        <lastmod>2020-11-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-26-zui-jin-shi-le-zhuang-tai/</loc>
+        <lastmod>2020-11-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-23-leng-de-hen-le/</loc>
+        <lastmod>2020-11-23</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-19-tou-shi-xiao-duan-qun/</loc>
+        <lastmod>2020-11-19</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-16-bu-neng-fang-song-jing-ti/</loc>
+        <lastmod>2020-11-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/ya/</loc>
         <lastmod>2020-11-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-12-mai-ji-yong/</loc>
+        <lastmod>2020-11-12</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
@@ -2695,8 +2758,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2020-11-11-mang-de-mei-duo-shao-shi-jian-xie-ri-ji-le/</loc>
+        <lastmod>2020-11-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/yuanwang/</loc>
         <lastmod>2020-11-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-08-xi-yi-ji-huai-le/</loc>
+        <lastmod>2020-11-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-05-tian-qi-bian-de-hen-leng-le/</loc>
+        <lastmod>2020-11-05</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-11-03-zhe-ji-tian-qi-shi-hen-mang-，-you-hen-duo-shi-qing/</loc>
+        <lastmod>2020-11-03</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
