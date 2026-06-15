@@ -2835,8 +2835,71 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2020-10-21-shao-wan-shou-ji-，-shao-kan-dian-ying-，-duo-zuo-you-yi-yi-de-shi-qing/</loc>
+        <lastmod>2020-10-21</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-18-yin-chen-de-tian/</loc>
+        <lastmod>2020-10-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-16-gang-gang-hen-hen-de-shuai-le-yi-xia-an-zhuo-bei-yong-shou-ji/</loc>
+        <lastmod>2020-10-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-14-Get-yi-ge-xin-ji-neng/</loc>
+        <lastmod>2020-10-14</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/hongbao/</loc>
         <lastmod>2020-10-14</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-13-bu-chong-mei-li-bei-po-tu-bu-de-yi-xie-shi-qing/</loc>
+        <lastmod>2020-10-13</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-12-mei-li-bei-po-（2）/</loc>
+        <lastmod>2020-10-12</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-11-mei-li-bei-po-zhi-xing-（1）/</loc>
+        <lastmod>2020-10-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-10-qu-li-le-yi-ge-tou-fa/</loc>
+        <lastmod>2020-10-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-09-tu-bu-gui-lai-de-zhuang-tai/</loc>
+        <lastmod>2020-10-09</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
