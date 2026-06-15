@@ -2807,6 +2807,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/archives/2020-10-29-guan-yu-gou-wu-yi-xie-xiang-shuo-de/</loc>
+        <lastmod>2020-10-29</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-28-ren-sheng-da-duo-shi-hou-zhu-ding-yao-du-xing/</loc>
+        <lastmod>2020-10-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-27-mian-li-you-yi-zhi-zhang-lang/</loc>
+        <lastmod>2020-10-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/archives/2020-10-25-zhe-liang-tian-huan-shi-you-dian-lei-suo/</loc>
+        <lastmod>2020-10-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/hongbao/</loc>
         <lastmod>2020-10-14</lastmod>
         <changefreq>always</changefreq>
