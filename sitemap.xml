@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/yi-ge-guan-yu-fang-zi-de-meng/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/guan-yu-fang-jia-he-gang-xu-mai-fang-de-yi-dian-xiang-fa/</loc>
         <lastmod>2026-06-24</lastmod>
         <changefreq>always</changefreq>
