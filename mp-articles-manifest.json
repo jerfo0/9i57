@@ -1,5 +1,11 @@
 [
   {
+    "title": "简道云 SUMPRODUCT 隐式转换规则",
+    "link": "https://recall.9i57.com/archives/jiandaoyun-sumproduct-implicit-conversion/",
+    "date": "2026-07-06",
+    "summary": "简道云 SUMPRODUCT 函数对文本的隐式转换规则：提取字符串开头的连续数字部分。"
+  },
+  {
     "title": "地震那一夜",
     "link": "https://recall.9i57.com/archives/di-zhen-na-yi-ye/",
     "date": "2026-07-06",
