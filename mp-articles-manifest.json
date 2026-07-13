@@ -1,5 +1,11 @@
 [
   {
+    "title": "简道云智能助手背后的时序难题",
+    "link": "https://recall.9i57.com/archives/jiandao-yun-zhi-neng-zhu-shou-shi-xu-nan-ti/",
+    "date": "2026-07-13",
+    "summary": "智能助手执行有先后，数据由多表组成时，速度越快越容易乱序，系统的健壮性远比前端的简单逻辑复杂。"
+  },
+  {
     "title": "FDE与Agent搭建工程师——普通人入局AI行业最好的方式",
     "link": "https://recall.9i57.com/archives/fde-agent-da-jian-gong-cheng-shi/",
     "date": "2026-07-13",
