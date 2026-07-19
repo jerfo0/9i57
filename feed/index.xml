@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 16 Jul 2026 13:38:55 +0800</lastBuildDate><pubDate>Thu, 16 Jul 2026 13:38:55 +0800</pubDate><item><title>热天跑步、雪诺猫与城里老鼠</title><link>/archives/re-tian-pao-bu-xue-nuo-mao-yu-cheng-li-lao-shu/</link><description>&lt;p&gt;成都今年的天气是真的热。今早上班的时候我忘了拿公交卡，折回去取的时候是跑着去的，跑步过去，跑步回来，这么一折腾就汗如雨下。&lt;/p&gt;
-&lt;p&gt;这感觉夏天减肥真的是效果非常好呀。我想跑一次步大概就能流一斤左右的汗，流的汗水里总该有不少脂肪吧，那这些脂肪就是减掉的体重了。减肥是不错，但我也不免感叹年龄大了身体确实不行了。感觉运动还是要坚持的，否则以后只会更不行。&lt;/p&gt;
-&lt;p&gt;运动虽然累，但累过之后是一种能感受到生命的鲜活感。你会觉得充实，感觉身体的细胞都被激活了，好像自己重新脱胎换骨了一样。这可能就是情绪低谷时，运动是最好的排解办法。其实接触户外自然也算一种吧，不过这是被迫运动的感触，最主要还是感受到了流汗，感受到了细胞里的生命在自己身体中流动。&lt;/p&gt;
-&lt;p&gt;上班路上我还遇见了件有趣的事，就在跑步流汗之后。我在人行道上走的时候，先看到一只很像雪诺的猫咪从草丛里慢悠悠走出来，走过没多远，又看到一只老鼠叼着一个塑料袋——塑料袋里大概是馒头之类，整个叼起来的东西跟它自身一般大，它是蹦蹦跳跳地叼着走过去的。我看见的时候就想，要是录下视频应该挺不错吧。&lt;/p&gt;
-&lt;p&gt;这要是在乡下老家，我肯定是追着打的，因为乡下的老鼠偷吃的是人要吃的粮食。但城市里的老鼠吃的是人丢弃的食物，老鼠还真是种适应力极强的动物。&lt;/p&gt;
-&lt;p&gt;城市的老鼠和乡村的老鼠也很不一样。城里的老鼠比较悠闲，只要不是出现在家里，倒也不那么招人讨厌；乡下的老鼠却是人人喊打，因为乡下没有多余的食物留给它，人吃剩的都要拿去喂狗、喂鸡、喂猪。乡下的老鼠不受待见，也因为生存压力大，感觉反而更活跃一些，更像真正的野生动物。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/re-tian-pao-bu-xue-nuo-mao-yu-cheng-li-lao-shu/</guid><pubDate>Fri, 10 Jul 2026 09:31:00 +0800</pubDate></item><item><title>理解LangChain与AI编程的新范式</title><link>/archives/langchain-ai-ji-qiao-xin-fan-shi/</link><description>&lt;p&gt;最近在学习 LangChain，一个用于构建大语言模型（LLM）应用的 Python 框架。虽然不可能学得很精，也没有实际去操作配置，但经过这次学习，让我理解了一种新的编程方式。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 19 Jul 2026 08:37:21 +0800</lastBuildDate><pubDate>Sun, 19 Jul 2026 08:37:21 +0800</pubDate><item><title>理解LangChain与AI编程的新范式</title><link>/archives/langchain-ai-ji-qiao-xin-fan-shi/</link><description>&lt;p&gt;最近在学习 LangChain，一个用于构建大语言模型（LLM）应用的 Python 框架。虽然不可能学得很精，也没有实际去操作配置，但经过这次学习，让我理解了一种新的编程方式。&lt;/p&gt;
 &lt;h2&gt;代码是工具，不是逻辑本身&lt;/h2&gt;
 &lt;p&gt;以前的编程，代码是主角，程序按照写好的逻辑一步步执行。但 AI 时代不一样了——你可以用代码去限制，但 AI 同时具有非常大的灵活性和知识性。一个程序并不是完全限制死的，真正的代码只是构建给 AI 使用的工具，以及规范 AI 输入输出数据的结构。&lt;/p&gt;
 &lt;p&gt;因为有这样的能力，AI 可以很好地访问内部知识、数据、工具，也能实时访问最新信息。因为有结构化的输出，你也能把输出结果返回到内部数据中去，形成闭环。&lt;/p&gt;
@@ -90,4 +84,11 @@
 &lt;p&gt;所以房子不再是一个投资的好产品了，而且很多人的心态是变化了的，宁愿租房子住了，很多夫妻对于房子可能也不那么执念了，特别是贷款买房，每个月的房贷压力是会让自己的幸福感大大降低的，当然可能有房的时候也会有拥有房产的幸福感。&lt;/p&gt;
 &lt;p&gt;我现在就是想努力早点把房贷还清，虽然利息只有3%，但是累计起来还是不小的钱，如果我拿存款去获得3%的利息，其实在贴补一点点也可以租个好房子了，当然租房子的质量还是比买房的质量要差很多，要租到好的还是要比较高的租金的，但租房也好在自由，可以随时更换。&lt;/p&gt;
 &lt;p&gt;如果要买刚需房的话，我建议是尽量买位置好的，低价的老破小，这个性价比会更高，保值增值的概率会高很多，而且前提是刚需，所以你也不会着急去卖，等时间到了，不会跌的太多的。而且位置好，被拆迁的概率也是更大的。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/fang-jia-yu-gang-xu-de-si-kao/</guid><pubDate>Thu, 16 Jul 2026 21:38:00 +0800</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/fang-jia-yu-gang-xu-de-si-kao/</guid><pubDate>Thu, 16 Jul 2026 21:38:00 +0800</pubDate></item><item><title>离职后的第一周</title><link>/archives/li-zhi-hou-de-di-yi-zhou/</link><description>&lt;p&gt;有几个朋友一直做自由职业者，我很佩服他们，不上班就能够养活自己我觉得是蛮不错的能力，现在我已经离职4天了，其实心里也是有点着急的。&lt;/p&gt;
+&lt;p&gt;虽然经常劝慰自己，还有12个月的失业金可以领取呢，完全可以在这段时间接几单简道云零代码搭建的活，然后继续下去，也慢慢变成自由职业者，但那种丧失了固定收入的状态，是需要慢慢适应的，同时新的自律的习惯，然后行之有效的工作习惯也需要重新培养。我觉得我是闲不住的，我总是得去找点事情做，找点对于未来有点价值，对自己有点提升的事情做。&lt;/p&gt;
+&lt;h2&gt;三件重要的事&lt;/h2&gt;
+&lt;p&gt;现在的打算嘛，一方面是好好陪即将要过来玩的家人，虽然要花一些钱，但钱花在家人身上，我是乐意的，毕竟这对于他们来说，应该算的上是难得的经历。&lt;/p&gt;
+&lt;p&gt;还有就是我对FDE还是非常感兴趣的，我感觉可能我未来的职业和发展可能会跟这个有关，AI发展越来越快，而FDE是我们这些普通人可以进入的，其实也刚刚好。做零代码saas系统，其实也是在培养了我的这种能力，原本是想在上一家公司好好实践和学习的，无奈，老板喜欢比他能力差的人，或者屈服于他的人，我是因为跟他工作相处不来被开了，不过也没关系，好好学习，机会总是给有准备的人的。&lt;/p&gt;
+&lt;p&gt;最后就是想好好推广自己个人私活搭建简道云系统代码的业务，这块其实很多企业是需要的，也绝对是一个趋势。通过简历的查询我也发现很多公司是有自己的信息化系统的，还有很多这样的甲方公司，所以需求是有的，重要的是，如何找到这些人，以及如何让决策的人信任自己。我自己本人对于自己答应能实施的项目是有自信的，应该这样的项目做了好几个，有经验，也有去研究的兴趣。&lt;/p&gt;
+&lt;p&gt;眼下比较重要的就是这三方面的吧，好好努力，好好加油，也不要把自己的精神崩的那么紧。我现在是走进了新的迷宫去探索，这是好事情。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/li-zhi-hou-de-di-yi-zhou/</guid><pubDate>Sun, 19 Jul 2026 16:34:00 +0800</pubDate></item></channel></rss>
