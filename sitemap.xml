@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/ku-nan-yu-zhi-zu/</loc>
+        <lastmod>2026-07-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/du-wan-qia-la-ma-zuo-fu-xiong-di/</loc>
         <lastmod>2026-07-24</lastmod>
         <changefreq>always</changefreq>
