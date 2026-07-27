@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/zheng-wu-ban-li-de-lai-hui-zhe-teng/</loc>
+        <lastmod>2026-07-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/ku-nan-yu-zhi-zu/</loc>
         <lastmod>2026-07-25</lastmod>
         <changefreq>always</changefreq>
