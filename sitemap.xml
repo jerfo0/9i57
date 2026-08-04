@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/13-tian-guan-yu-si-wang-de-xuan-ze/</loc>
+        <lastmod>2026-08-04</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/lao-xiao-qu-men-wei-de-huang-dan-shi/</loc>
         <lastmod>2026-08-03</lastmod>
         <changefreq>always</changefreq>
