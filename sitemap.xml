@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/jia-ting-lv-xing-gui-lai/</loc>
+        <lastmod>2026-08-14</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/jia-ren-lai-cheng-du-de-sui-sui-nian/</loc>
         <lastmod>2026-08-06</lastmod>
         <changefreq>always</changefreq>
