@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/wei-ji-ji-er-zuo/</loc>
+        <lastmod>2026-09-12</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/kong-de-gan-jue-zhen-hao/</loc>
         <lastmod>2026-09-10</lastmod>
         <changefreq>always</changefreq>
