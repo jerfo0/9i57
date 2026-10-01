@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Wed, 30 Sep 2026 08:18:15 +0800</lastBuildDate><pubDate>Wed, 30 Sep 2026 08:18:15 +0800</pubDate><item><title>电脑蓝屏与流浪猫</title><link>/archives/dian-nao-lan-ping-yu-liu-lang-mao/</link><description>&lt;p&gt;这两天还有点累。&lt;/p&gt;
-&lt;p&gt;昨天是因为电脑一直蓝屏重启，应该是硬盘方面的问题。只要我开了PR，导致磁盘和内存使用率非常高就会蓝屏，晚上搞了很久，弄到凌晨都没弄好，最终还是太困睡着了。&lt;/p&gt;
-&lt;p&gt;一直寻求AI的回答，但它总是告诉我是某一块磁盘没有找到，叫我重新拔出来插一下。我找了很久都没有找到。今天把显卡拆出来看了一下，原来确实有一块跟口香糖大小一样的磁盘紧贴在主板上，这是第一次见这样的磁盘——是M.2接口的。重新拔插了一下，希望以后不要再出问题。&lt;/p&gt;
-&lt;p&gt;今天事情也比较多。晚上出去买菜回来，在楼道里遇到了一只猫，一只长毛猫。真的很烦，这猫长得很好看，还特别黏人，长长的毛显得很大很重，感觉比雪诺还要大，但实际很瘦很轻。&lt;/p&gt;
-&lt;p&gt;在业主群发了消息，带回了家。开始还担心雪诺跟它要打架，抱回家后感觉它们俩相处得还可以，弄的我一个人在旁边还挺紧张担心的。吃完饭就牵着这只小猫出去找它的主人，后面门卫说是五楼一位小伙子的。敲了很久门没有人答应，敲对面的，对面的人说是他们对面的，但可能没人在家。于是留了个纸条，又把猫咪抱回家了。&lt;/p&gt;
-&lt;p&gt;她说，这只猫经常跑来跑去，感觉它的主人没怎么管它。唉，五楼两个住户都是员工宿舍，雪诺感觉也是五楼遗弃的。现在的人喜欢猫，但养了又不怎么管，而且不考虑自己有没有能力养，我觉得这是对猫有点不负责任的。养对方就要给对方一个安稳的家，纱窗还是要装的，而且不能遗弃。这个事情也搞得我有点精力不够，花费了蛮多时间。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/dian-nao-lan-ping-yu-liu-lang-mao/</guid><pubDate>Wed, 02 Sep 2026 21:01:00 +0800</pubDate></item><item><title>碎碎念：小团A账复活，顺便聊聊我的AI Agent计划</title><link>/archives/sui-sui-nian-xiao-tuan-a-zhang-fu-huo/</link><description>&lt;p&gt;有点气愤，刚刚录入的日志内容因为切换到其他对话窗口，结果录入的内容就完全没有了，这可是 Qclaw 的一个 BUG。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 01 Oct 2026 09:49:19 +0800</lastBuildDate><pubDate>Thu, 01 Oct 2026 09:49:19 +0800</pubDate><item><title>碎碎念：小团A账复活，顺便聊聊我的AI Agent计划</title><link>/archives/sui-sui-nian-xiao-tuan-a-zhang-fu-huo/</link><description>&lt;p&gt;有点气愤，刚刚录入的日志内容因为切换到其他对话窗口，结果录入的内容就完全没有了，这可是 Qclaw 的一个 BUG。&lt;/p&gt;
 &lt;p&gt;刚刚打了一大段文字呢，突然没了，自己得重新写了。&lt;/p&gt;
 &lt;p&gt;昨天有个人找到我，说我的小程序"小团A账"坏了，求我修复一下，因为他还挺珍惜里面的数据的。我其实知道是什么问题，大概是因为服务器内存不足，导致数据库进程结束了，倒腾了一下就恢复了。又做了一个定时任务去检测进程是否在线，没在线就重启，后续应该不会出现这个问题吧。&lt;/p&gt;
 &lt;p&gt;小程序放了很久都没管了，没想到还有很多人用。做这个小程序也完全没考虑过盈利，既没有投广告，也没有收费。那位用户还问了这个问题来着——于是当时就感觉，应该看看小程序的流量情况，得考虑一下能不能做一下变现了，起码可以投投广告吧。&lt;/p&gt;
@@ -84,4 +78,15 @@
 &lt;p&gt;比如我开发的"小团A账"小程序，不用我管，每天也有十到二十元的收入。&lt;/p&gt;
 &lt;p&gt;这种钱虽少，但它是被动收入，是一种附属收入，也是值得好好珍惜的，而且这类事情做起来其实并不难。&lt;/p&gt;
 &lt;p&gt;流出的渠道少一些，收集的渠道多一些，这似乎就是海洋和湖泊的原理。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/bu-yao-qiao-bu-qi-yi-jiao-qian/</guid><pubDate>Wed, 30 Sep 2026 16:20:00 +0800</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/bu-yao-qiao-bu-qi-yi-jiao-qian/</guid><pubDate>Wed, 30 Sep 2026 16:20:00 +0800</pubDate></item><item><title>一部苹果X用了六年</title><link>/archives/yi-bu-ping-guo-x-yong-le-liu-nian/</link><description>&lt;p&gt;2020年买的二手苹果X，我已经用了6年了，当年是3200多点买的。中间它可经过不少折腾，我给它换过一次电池、换过三次屏幕，今天是第三次换屏幕了，都是实在用不了了才换的，估计还是会撑一段时间的吧。&lt;/p&gt;
+&lt;h2&gt;一个手机能用七八年&lt;/h2&gt;
+&lt;p&gt;一个手机能用7-8年应该算是少见的了，而且这么多年265G的内存，好像从来也没满过。&lt;/p&gt;
+&lt;p&gt;不过这也跟我很少用手机拍照片和视频有关系。我还蛮喜欢这种物尽其用的感觉，感觉自己对得起这个物件了。&lt;/p&gt;
+&lt;h2&gt;那些用过的其他手机&lt;/h2&gt;
+&lt;p&gt;除了苹果，我还用过华为和小米，说老实话真的没有苹果做得好。&lt;/p&gt;
+&lt;p&gt;小米是突然就主板坏了，完全不知道什么原因。华为那个手机倒是在我这里，电池鼓包严重，直接把屏幕顶开了，因为后面越用越卡，我扫码支付一下都要等半天，当时才决心当做备用机换了苹果X的。&lt;/p&gt;
+&lt;p&gt;经历过这些，我应该后面的手机都会是苹果生态了吧。&lt;/p&gt;
+&lt;h2&gt;想想当年&lt;/h2&gt;
+&lt;p&gt;想想当年苹果手机还真贵，现在苹果X的回收价格都不足500了，但是其满足我的日常使用还是完全没问题，纯感叹和记录一下。&lt;/p&gt;
+&lt;p&gt;我其实挺喜欢这种把物品能用到极致，发挥其最大价值。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/yi-bu-ping-guo-x-yong-le-liu-nian/</guid><pubDate>Thu, 01 Oct 2026 17:47:00 +0800</pubDate></item></channel></rss>

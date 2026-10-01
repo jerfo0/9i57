@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/yi-bu-ping-guo-x-yong-le-liu-nian/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/bu-yao-qiao-bu-qi-yi-jiao-qian/</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>always</changefreq>
