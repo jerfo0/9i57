@@ -65,7 +65,7 @@ jobs:
         allow_empty_commit: false
 
     - name: Sync dist to Aliyun OSS
-      uses: fangbinbin/aliyun-oss-website-action@v1
+      uses: fangbinwei/aliyun-oss-website-action@v2
       with:
         accessKeyId: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_ID }}
         accessKeySecret: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_SECRET }}
