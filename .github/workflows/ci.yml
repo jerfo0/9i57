@@ -63,3 +63,13 @@ jobs:
         publish_branch: gh-pages
         publish_dir: ./dist
         allow_empty_commit: false
+
+    - name: Sync dist to Aliyun OSS
+      uses: fangbinbin/aliyun-oss-website-action@v1
+      with:
+        accessKeyId: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_ID }}
+        accessKeySecret: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_SECRET }}
+        bucket: ${{ secrets.ALIYUN_OSS_BUCKET }}
+        endpoint: ${{ secrets.ALIYUN_OSS_ENDPOINT }}
+        folder: dist
+        # 若 Action 参数名与文档不一致，改用下方 ossutil 方案
