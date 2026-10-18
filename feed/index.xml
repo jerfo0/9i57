@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 16 Oct 2026 09:20:36 +0800</lastBuildDate><pubDate>Fri, 16 Oct 2026 09:20:36 +0800</pubDate><item><title>别人是别人，你是你</title><link>/archives/bie-ren-shi-bie-ren-ni-shi-ni/</link><description>&lt;p&gt;人总是比上不足，比下有余，而且对比还是人的本性。虽说要活出真实的自己，但实际上我们总是会不自觉的去与人各种对比的，所以我们时刻要提醒自己反人性。&lt;/p&gt;
-&lt;h2&gt;一次拍口播视频的挫败&lt;/h2&gt;
-&lt;p&gt;我今天在拍摄一个口播视频，其实拍的效果非常的不好。上厕所的时候刷了一下别人的视频，发现原来别人拍的那么的好呀，我都自卑了，感觉不好意思去整理发自己的视频了。&lt;/p&gt;
-&lt;p&gt;这就是我在进行对比了，我在以别人的行为来评判自己，甚至可能影响我去做选择。&lt;/p&gt;
-&lt;p&gt;假如我刷到的是比自己不行的，可能我会有点自信，可能内心OS还是：这算什么呢？&lt;/p&gt;
-&lt;p&gt;人性就是这样，喜欢攀比。&lt;/p&gt;
-&lt;h2&gt;忠于本心，是一个不断提醒的过程&lt;/h2&gt;
-&lt;p&gt;要做到不攀比，不对比，忠于本心，其实就是要不断的了解自己的本心，不断的去提醒自己：别人是别人，你是你。你想要做的事情，你想要表达的事情，就去做就行了。&lt;/p&gt;
-&lt;p&gt;总会有人喜欢，也会有人不喜欢，这些都不重要。最重要的是，你自己做这件事是否开心？你的开心或者不开心，是否只是建立在别人的评判下，还是自己真的喜欢这么做？&lt;/p&gt;
-&lt;p&gt;这个问题的答案对于自己才是最重要的，才是你应不应该去做的选择依据。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/bie-ren-shi-bie-ren-ni-shi-ni/</guid><pubDate>Thu, 01 Oct 2026 21:43:00 +0800</pubDate></item><item><title>熬夜给服务器做内存优化</title><link>/archives/ao-ye-gei-fu-wu-qi-zuo-nei-cun-you-hua/</link><description>&lt;p&gt;昨天熬夜了，熬到凌晨。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 18 Oct 2026 13:28:42 +0800</lastBuildDate><pubDate>Sun, 18 Oct 2026 13:28:42 +0800</pubDate><item><title>熬夜给服务器做内存优化</title><link>/archives/ao-ye-gei-fu-wu-qi-zuo-nei-cun-you-hua/</link><description>&lt;p&gt;昨天熬夜了，熬到凌晨。&lt;/p&gt;
 &lt;p&gt;主要是国庆的时候小程序流量有点大，服务器的内存不得行，结果就针对内存开始进行各种运维优化。我是不懂什么运维的，但是跟 AI 一直对话，也算是把服务器调优好了，这样我觉得又可以 1-2 年不用升级服务器了。&lt;/p&gt;
 &lt;h2&gt;问题其实不止是配置低&lt;/h2&gt;
 &lt;p&gt;其实是服务器运维的地方很多不到位，当然服务器配置低也是原因之一，更重要的原因还是有很多不应该的设置，资源没有分配好。&lt;/p&gt;
@@ -109,4 +99,12 @@
 &lt;p&gt;我觉得做小程序类、工具类的，能解决别人的问题，同时自己还能获取一些被动的广告收入，这是非常棒的事情。&lt;/p&gt;
 &lt;p&gt;但当你想要做这个事情的时候，需求、使用的反馈显得非常的重要。而很多有这种需求的人，往往又不知道原来这种情况可以做成一个产品，进而更加方便。&lt;/p&gt;
 &lt;p&gt;我想这也是为什么 FDE 现在这么炙手可热的缘故吧！这个岗位就是在做这个事情，当然是企业级的。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/chan-pin-hao-bu-hao-yong-zhi-you-yong-le-cai-zhi-dao/</guid><pubDate>Fri, 16 Oct 2026 17:20:00 +0800</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/chan-pin-hao-bu-hao-yong-zhi-you-yong-le-cai-zhi-dao/</guid><pubDate>Fri, 16 Oct 2026 17:20:00 +0800</pubDate></item><item><title>学英语，我想沉淀出一套固定的方法</title><link>/archives/xue-ying-yu-xiang-chen-dian-chu-yi-tao-gu-ding-de-fang-fa/</link><description>&lt;p&gt;我觉得我应该好好学习英语，并且应该沉淀出自己的一套固定的英语学习方法。&lt;/p&gt;
+&lt;h2&gt;关于看美剧学英语&lt;/h2&gt;
+&lt;p&gt;不止一次听朋友说，看美剧学英语很快。基本方法是：第一遍看字幕，第二遍不看字幕，然后尽量去跟读。&lt;/p&gt;
+&lt;p&gt;这些我倒是陆陆续续地实践过，但时间都不长，也没有一套固定的方法。所以英语现在还是很不好，但感觉还是进步了的，只是非常非常的慢。&lt;/p&gt;
+&lt;h2&gt;一套成熟的方法，是可复制的&lt;/h2&gt;
+&lt;p&gt;我想，如果有一套成熟、固定、有趣的方法，那么这套方法是非常适合复制的。&lt;/p&gt;
+&lt;p&gt;想要学英语的人很多，以后英语也会越来越普及、越来越被需要，可能会成为一个人的基本技能。&lt;/p&gt;
+&lt;p&gt;所以要多在这方面去思考，去实践。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/xue-ying-yu-xiang-chen-dian-chu-yi-tao-gu-ding-de-fang-fa/</guid><pubDate>Sun, 18 Oct 2026 21:30:00 +0800</pubDate></item></channel></rss>
