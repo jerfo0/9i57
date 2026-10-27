@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 25 Oct 2026 15:15:56 +0800</lastBuildDate><pubDate>Sun, 25 Oct 2026 15:15:56 +0800</pubDate><item><title>把碎碎念搬回国内</title><link>/archives/ba-sui-sui-nian-ban-hui-guo-nei/</link><description>&lt;p&gt;今天研究了很多东西，把碎碎念的博客转移到国内了。&lt;/p&gt;
-&lt;p&gt;用的是阿里云的一套：OSS（对象存储）放静态文件，CDN 用来优化提速，RAM 用来给 GitHub 上的上传动作分配权限。一套配下来，现在碎碎念的访问稳定性应该会高很多。&lt;/p&gt;
-&lt;h2&gt;之前的毛病在哪&lt;/h2&gt;
-&lt;p&gt;原来碎碎念是直接访问 GitHub 的。它是国外的服务器，访问起来总也不是非常稳定，时不时就抽一下。&lt;/p&gt;
-&lt;h2&gt;成本这块&lt;/h2&gt;
-&lt;p&gt;OSS 和 CDN 都是按量收费的，不过应该不大，静态博客这种用量是完全够用的。&lt;/p&gt;
-&lt;p&gt;可能比较麻烦的是 HTTPS 证书，估计要按季度去续约吧。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/ba-sui-sui-nian-ban-hui-guo-nei/</guid><pubDate>Mon, 12 Oct 2026 15:14:00 +0800</pubDate></item><item><title>看《面纱》想到的爱情</title><link>/archives/kan-mian-sha-xiang-dao-de-ai-qing/</link><description>&lt;p&gt;刚刚看完一部电影《面纱》。这部电影我经常看到，但经常没有点开来。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 27 Oct 2026 13:45:07 +0800</lastBuildDate><pubDate>Tue, 27 Oct 2026 13:45:07 +0800</pubDate><item><title>看《面纱》想到的爱情</title><link>/archives/kan-mian-sha-xiang-dao-de-ai-qing/</link><description>&lt;p&gt;刚刚看完一部电影《面纱》。这部电影我经常看到，但经常没有点开来。&lt;/p&gt;
 &lt;p&gt;为什么呢！因为这部片子讲的是爱情的。其实随着年龄的增长，你会越来越觉得可能爱情与自己无缘了，所以可能有点对这类题材脱敏了吧。&lt;/p&gt;
 &lt;p&gt;但看完还是感受蛮深的。爱情啊，永远是美好的东西，但你不知道它什么时候来，它会持续多久。&lt;/p&gt;
 &lt;h2&gt;她是先结婚，之后才找到爱情的&lt;/h2&gt;
@@ -126,4 +119,20 @@
 &lt;p&gt;如何解决这类问题是非常重要的事情，这部电影就非常能启发人去思考。虽然我有很多地方是不懂的——电影中讲资本主义、内部外部的那一部分非常的好，但我也是有很多不懂的，只是觉得那个片段解释的好像是正确的。当然其本身也没有提出可靠的解决办法，只是把问题抛出来了。电影结尾算是一种解决办法吗？其实也不知道。能启发人去思考的电影就是好电影。&lt;/p&gt;
 &lt;h2&gt;写在最后&lt;/h2&gt;
 &lt;p&gt;于个人来讲的话，每个人都应该去正面死亡这个话题吧。都会恐惧的，但知道要到来的时候，希望我们都能有如何走完最后终章的自由。死亡终究是什么也带不走，大部分也是什么都留不下的。所以经历好生前的一切就变得非常重要了。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/tu-ru-qi-lai-si-wang-yang-lao-bian-yuan-hua/</guid><pubDate>Sun, 25 Oct 2026 23:14:00 +0800</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/tu-ru-qi-lai-si-wang-yang-lao-bian-yuan-hua/</guid><pubDate>Sun, 25 Oct 2026 23:14:00 +0800</pubDate></item><item><title>身体开始需要刻意对待了</title><link>/archives/shen-ti-kai-shi-xu-yao-ke-yi-dui-dai/</link><description>&lt;h2&gt;肠胃在跟我抱怨&lt;/h2&gt;
+&lt;p&gt;年龄大了，感觉肠胃越来越不舒服。我猜大部分原因可能是运动太少了吧，肠胃没怎么蠕动；也有可能是跟饮食有关系，比如吃了太辣的。&lt;/p&gt;
+&lt;p&gt;实际上我知道自己肠胃不好，而且我一直是自己做饭，所以辣的话应该不太有问题。那会不会是具体某样东西有问题？&lt;/p&gt;
+&lt;p&gt;肚子不舒服，经常去上厕所，这就是肠胃在跟我抱怨：有些地方我做得不好。&lt;/p&gt;
+&lt;h2&gt;只能猜到大概，还是要去试&lt;/h2&gt;
+&lt;p&gt;只能猜到大概的原因，但还是要去尝试改变的方式。一方面多注意饮食，调整饮食；一方面多出去走动走动。可能随着天气变化受到影响，也是有关系的。总之，要随着身体的变化做出改变。&lt;/p&gt;
+&lt;p&gt;年轻的时候，身体适应各种糟糕的对待，都恢复得很快。但现在越来越不行了，需要我们刻意去好好对待它。&lt;/p&gt;
+&lt;h2&gt;衡习&lt;/h2&gt;
+&lt;p&gt;估计不久我就要上线一个小程序了，叫衡习，为的是养成一个健康的生活习惯。&lt;/p&gt;
+&lt;p&gt;健康其实对每个人都很重要。如果利于健康的习惯，能像刷牙一样是日复一日、不觉得麻烦的动作，是会很棒的。其实刷牙也是健康的习惯，我们都已经把它视为极为正常了。&lt;/p&gt;
+&lt;p&gt;也许这个小程序不会被很多人使用，但只要有一个人愿意用、觉得有价值，那这个事情就是值得的。我自己目前是觉得有用的，准备用这个实际去行动、实践这个事情——实际上每天可能占据不了多少时间。&lt;/p&gt;
+&lt;h2&gt;AI 时代，从自己需要的事出发&lt;/h2&gt;
+&lt;p&gt;我听过一句话：在 AI 时代，你不知道要做什么的话，那就思考生活中的各种事情，自己需要做、需要用的很多事情能不能去 AI 化，先从自身的角度去出发。&lt;/p&gt;
+&lt;p&gt;就像今晚，我突然点开了 WorkBuddy 的 1024 造物节，看了一下里面的产品，映入眼帘的就有出游 AA 记账的 Skill——我也做了这样的小程序。实际上这样的小程序有很多。我其实之前也想过，是不是以后小程序类的也可以做成 AI 工具上的 Skill？比如我就在 DeepSeek harness 上做了 C 盘清理的工具，虽然没有深度的优化、深度的使用，但确实是能用的。只是我会不会去用，可能需要另外考虑了。&lt;/p&gt;
+&lt;p&gt;而对于 AA 记账来说，在 WorkBuddy 上用是否会甚于在小程序上用呢？目前来看，无疑是小程序优势要大得多。但有一点我们可以看得明白：同样的事情，不同的平台都是可以很好地做出来的。&lt;/p&gt;
+&lt;p&gt;各种产品都可以去探索一下、借鉴一下，但还是要把它放在对应的场景下进行使用。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/shen-ti-kai-shi-xu-yao-ke-yi-dui-dai/</guid><pubDate>Tue, 27 Oct 2026 21:43:00 +0800</pubDate></item></channel></rss>
