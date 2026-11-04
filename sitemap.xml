@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/xue-nuo-chang-tiao-cao-le/</loc>
+        <lastmod>2026-11-04</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/fde-bi-cheng-xu-kai-fa-nan-duo-le/</loc>
         <lastmod>2026-11-02</lastmod>
         <changefreq>always</changefreq>
