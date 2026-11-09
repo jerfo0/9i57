@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 07 Nov 2026 09:21:27 +0800</lastBuildDate><pubDate>Sat, 07 Nov 2026 09:21:27 +0800</pubDate><item><title>看《人生》想到的真情可贵</title><link>/archives/kan-ren-sheng-xiang-dao-de-zhen-qing-ke-gui/</link><description>&lt;p&gt;今晚看了一部老电影《人生》。我到现在也没弄明白，它是 1984 年拍的，还是讲 1984 年的故事。&lt;/p&gt;
-&lt;p&gt;之前我一直觉得没有什么好看的电影了，好像是剧荒了。但实际上值得一看的电影还有很多很多。我喜欢看这类能让人有深度思考和感悟的电影，它其实就像看一本书一样——你似乎是体验了另一种人生、另一种经历，这对自己是十分有帮助的。&lt;/p&gt;
-&lt;p&gt;阅多了各种人生、各种生活，你会发现很多可能。在未来的人生选择上，你也会知道什么是正确的，这些算得上是人生智慧吧。&lt;/p&gt;
-&lt;h2&gt;真情比利益更值得珍惜&lt;/h2&gt;
-&lt;p&gt;《人生》给我最大的感触就是：真情非常可贵，它比利益、权益更加值得珍惜。&lt;/p&gt;
-&lt;p&gt;物以稀为贵，情感也是一样，真正对别人好的那种情感，是十足的稀少和珍贵的。&lt;/p&gt;
-&lt;h2&gt;高加林的遗憾&lt;/h2&gt;
-&lt;p&gt;大部分人对高加林的选择都深感遗憾吧，不管他的结局是怎么样。其实都是遗憾的，因为他错过了一块宝石。&lt;/p&gt;
-&lt;p&gt;当然，如果让我们自己代入进去，可能也未必能做出更好的选择。可能大部分人都会去选择名利、舍弃真心，其实不应该谴责。我想导演最后把他的结果设计得悲惨难堪，是有责备的意思的。但可能真在现实中，他不会有那么差的境地——一封举报信真能起那么大的作用吗？那个年代，甚至是这个年代，靠关系都是被视为正常的，而且他本身能力也是在的。&lt;/p&gt;
-&lt;p&gt;即便是他结果好，还是会倍感遗憾吧。他可能没那么爱巧珍，但也不讨厌。如果说巧珍是一个文化人的话，他肯定是二话不说选择巧珍吧。就因为这个，令人觉得失望和遗憾——因为把人的情感当做了某种等价物。如此你就会觉得，情爱这东西好似是索然无味了。&lt;/p&gt;
-&lt;h2&gt;真心是买不到的&lt;/h2&gt;
-&lt;p&gt;事实上，有钱有权是买不到一个人的真正的真心的。&lt;/p&gt;
-&lt;p&gt;真心不会因为你的人生起伏而有所变化，这是令人惋惜和痛恨的一点：一个人对你全心全意，不因为你拥有什么、是否贫穷富贵而真心待你，而你却因为自己境遇好了，就开始瞧不起别人，非要把人分成个不同的等级，确实是让人痛心的。&lt;/p&gt;
-&lt;p&gt;我想这种遗憾在高加林心里会是一辈子的。我们从这里应该学到的是：在面临同样的选择时，要选择那个不留遗憾的选项。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/kan-ren-sheng-xiang-dao-de-zhen-qing-ke-gui/</guid><pubDate>Thu, 15 Oct 2026 22:00:00 +0800</pubDate></item><item><title>产品好不好用，只有用了才知道</title><link>/archives/chan-pin-hao-bu-hao-yong-zhi-you-yong-le-cai-zhi-dao/</link><description>&lt;p&gt;这个月马上就要新上线两个小程序了，一个叫"目的地云图天气"，一个叫"轻提词器"，目前仅仅只是等待备案审核通过了。现在做一个产品最耗时的，已经是备案审核了。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 09 Nov 2026 14:50:43 +0800</lastBuildDate><pubDate>Mon, 09 Nov 2026 14:50:43 +0800</pubDate><item><title>产品好不好用，只有用了才知道</title><link>/archives/chan-pin-hao-bu-hao-yong-zhi-you-yong-le-cai-zhi-dao/</link><description>&lt;p&gt;这个月马上就要新上线两个小程序了，一个叫"目的地云图天气"，一个叫"轻提词器"，目前仅仅只是等待备案审核通过了。现在做一个产品最耗时的，已经是备案审核了。&lt;/p&gt;
 &lt;p&gt;这两个小程序都是基于我自己的痛点需求去做的。因为有这样的需求，不做也行，但就是用起来很麻烦，于是自己做出来。这种产品，我可以在体验的时候反复地自己去使用，并验证我做出来的是不是符合我的要求、满足了需求的。&lt;/p&gt;
 &lt;h2&gt;需求真实，使用反馈才真实&lt;/h2&gt;
 &lt;p&gt;需求真实，和真实的使用反馈，对一个产品真的是非常重要的。&lt;/p&gt;
@@ -144,4 +130,25 @@
 &lt;p&gt;其实就是要自己面对、尊重和爱自己的弱点。为他鼓掌。&lt;/p&gt;
 &lt;p&gt;其中也有一个场景我印象深刻：医生在他的病人情绪低谷、伤痛欲绝的时候，要了对方的手机，给他拍了一张照片。这张照片拍摄这个节目的时候，那个病人才第一次看——已经过去了四年。我觉得这是挺有意思的事情。成长我们是需要在一定的时间跨度里才能感知到的，而且当你看到低谷时期的自己，会感受到什么呢？&lt;/p&gt;
 &lt;p&gt;你可能会希望他撑过去，想要告诉他没有那么糟。当你开始面对问题的时候，其实就是开始在解决问题了。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/yi-ge-jing-shen-ke-yi-sheng-jiao-wo-de-si-jian-shi/</guid><pubDate>Sat, 07 Nov 2026 17:20:00 +0800</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/yi-ge-jing-shen-ke-yi-sheng-jiao-wo-de-si-jian-shi/</guid><pubDate>Sat, 07 Nov 2026 17:20:00 +0800</pubDate></item><item><title>当挫折连着来的时候</title><link>/archives/dang-cuo-zhe-lian-zhao-lai-de-shi-hou/</link><description>&lt;p&gt;今天下午心情不太好。&lt;/p&gt;
+&lt;p&gt;我在想，可能是因为今天事情比较多，同时碰到的挫折也比较多。其实仔细想起来也没什么大不了的，但就在遇到挫折的那一刻，人内心还是感觉到特别毛躁。&lt;/p&gt;
+&lt;p&gt;最近待办上的事情总是没有完全完成，也没有正在进行的项目，所以总觉得好像是在浪费时间。可能潜意识里，我把"真正有价值的事情"等同于"赚钱的事情"了吧？其实这种等号是不应该划的。&lt;/p&gt;
+&lt;h2&gt;一、小团A账又被拒了&lt;/h2&gt;
+&lt;p&gt;让人气恼的事情有两件。&lt;/p&gt;
+&lt;p&gt;第一件，小团A账的小程序今天被拒了，说是"笔记社交类"的内容。它的定义是：用户可以输入内容，用户可以分享，所以审核员就定义成笔记社交类小程序。&lt;/p&gt;
+&lt;p&gt;但这个架构对于 AA 记账来说是绕不过去的——你记一笔账单必须要有名称吧，所以你得录入名称；你 AA 账的账单肯定要让团队的人看到吧，所以肯定要有分享。&lt;/p&gt;
+&lt;p&gt;一开始就是这样的，其实迭代了很多次了都没问题。但现在流量起来了，好像官方审核得越来越严格了。它也不是没给解决办法，解决办法就是你要升级为企业主体小程序，企业主体认证费是 300，是个人的 10 倍。我想官方的动机是不是这个呢。&lt;/p&gt;
+&lt;p&gt;关键是，要换成企业主体，对我来说也挺麻烦的，得去注册，也是一笔比较高的成本。&lt;/p&gt;
+&lt;p&gt;不过值得庆幸的是，最后我又重新提交了一遍，写的是修复 BUG——其实本来也是修复 BUG——结果过了。&lt;/p&gt;
+&lt;p&gt;修这个 BUG 也是网友主动找到我的。对方的场景其实不是出游 AA 记账，而是一个民宿，有几个合伙人，需要解决合伙人分账计算的问题。他找到我，问有没有办法适合他的场景使用，后面我研究了一下，只要稍微调整一下，就可以满足他的要求。因为别人主动找到我，我也想早点更新。&lt;/p&gt;
+&lt;p&gt;但小程序审核总是被拒绝，就卡得我有点难受了。&lt;/p&gt;
+&lt;p&gt;目前迭代更新的频率可能不多了。但以后如果还要迭代，还是一直这么审核不过的话，我可能也要认真考虑去升级为企业主体了（先申请一个个体户吧）。总之这算是一个事情，自己可以留意一下。&lt;/p&gt;
+&lt;h2&gt;二、剪视频的软件突然没授权了&lt;/h2&gt;
+&lt;p&gt;第二件，PR 软件今天剪辑，开始明明还 OK 的，结果总是突然弹出"应用程序未获授权，无法使用"。我就是一个个人用户，肯定没办法高价去购买的。也是折腾了很久才弄好，现在倒是没有提示了。这个事情折腾得我还挺久的。&lt;/p&gt;
+&lt;p&gt;结果给人的感觉就是：忙忙碌碌一天，但感觉什么事情也没有做成。&lt;/p&gt;
+&lt;p&gt;两个事情连着来，弄得我心情也不好。&lt;/p&gt;
+&lt;h2&gt;三、沿着河边走两圈&lt;/h2&gt;
+&lt;p&gt;于是我出去，沿着河边走了两圈，算是平复了一下自己的心情。&lt;/p&gt;
+&lt;p&gt;这法子挺好的。当你身处事情之中、很烦躁的时候，偶尔跳出来一下，用更高的视角，或者完全不想那件事情，跳脱出去，回头再去面对的话，会轻松很多。&lt;/p&gt;
+&lt;p&gt;跳脱出去的方式有很多种：运动，走走，冥想，睡觉，谈一谈，都可以。这不是叫自己去逃避问题，是避免情绪化地去处理问题。等情绪恢复平静后，再一步一步地去解决问题就好了。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/dang-cuo-zhe-lian-zhao-lai-de-shi-hou/</guid><pubDate>Mon, 09 Nov 2026 22:49:00 +0800</pubDate></item></channel></rss>
