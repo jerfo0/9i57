@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 12 Nov 2026 08:30:33 +0800</lastBuildDate><pubDate>Thu, 12 Nov 2026 08:30:33 +0800</pubDate><item><title>学英语，我想沉淀出一套固定的方法</title><link>/archives/xue-ying-yu-xiang-chen-dian-chu-yi-tao-gu-ding-de-fang-fa/</link><description>&lt;p&gt;我觉得我应该好好学习英语，并且应该沉淀出自己的一套固定的英语学习方法。&lt;/p&gt;
-&lt;h2&gt;关于看美剧学英语&lt;/h2&gt;
-&lt;p&gt;不止一次听朋友说，看美剧学英语很快。基本方法是：第一遍看字幕，第二遍不看字幕，然后尽量去跟读。&lt;/p&gt;
-&lt;p&gt;这些我倒是陆陆续续地实践过，但时间都不长，也没有一套固定的方法。所以英语现在还是很不好，但感觉还是进步了的，只是非常非常的慢。&lt;/p&gt;
-&lt;h2&gt;一套成熟的方法，是可复制的&lt;/h2&gt;
-&lt;p&gt;我想，如果有一套成熟、固定、有趣的方法，那么这套方法是非常适合复制的。&lt;/p&gt;
-&lt;p&gt;想要学英语的人很多，以后英语也会越来越普及、越来越被需要，可能会成为一个人的基本技能。&lt;/p&gt;
-&lt;p&gt;所以要多在这方面去思考，去实践。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/xue-ying-yu-xiang-chen-dian-chu-yi-tao-gu-ding-de-fang-fa/</guid><pubDate>Sun, 18 Oct 2026 21:30:00 +0800</pubDate></item><item><title>AI时代最好的学习，是动手做个项目</title><link>/archives/ai-shi-dai-zui-hao-de-xue-xi-shi-dong-shou-zuo-ge-xiang-mu/</link><description>&lt;p&gt;昨天算是熬夜到12点，用 DeepSeek Harness 做了一个 C 盘清理的插件，发现还是做成了，该有的功能都有，只是未必会用吧。用 AI 来清理 C 盘文件，怎么说都显得有点风险。只是现在的一些电脑管理软件的清理功能，已经完全满足不了 Win 系统 C 盘爆满的问题了——你电脑工作时间越久，C 盘就越容易爆满，这是一个非常大的痛点。我就想不通 Win 系统为什么喜欢什么东西都往 C 盘里塞！&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 15 Nov 2026 06:10:03 +0800</lastBuildDate><pubDate>Sun, 15 Nov 2026 06:10:03 +0800</pubDate><item><title>AI时代最好的学习，是动手做个项目</title><link>/archives/ai-shi-dai-zui-hao-de-xue-xi-shi-dong-shou-zuo-ge-xiang-mu/</link><description>&lt;p&gt;昨天算是熬夜到12点，用 DeepSeek Harness 做了一个 C 盘清理的插件，发现还是做成了，该有的功能都有，只是未必会用吧。用 AI 来清理 C 盘文件，怎么说都显得有点风险。只是现在的一些电脑管理软件的清理功能，已经完全满足不了 Win 系统 C 盘爆满的问题了——你电脑工作时间越久，C 盘就越容易爆满，这是一个非常大的痛点。我就想不通 Win 系统为什么喜欢什么东西都往 C 盘里塞！&lt;/p&gt;
 &lt;p&gt;苹果系统就永远不会有类似的问题，但 Win 系统类似的问题就是一个常态。有很多很多空间都是被其他软件塞满的。&lt;/p&gt;
 &lt;h2&gt;我为什么用 DeepSeek Harness&lt;/h2&gt;
 &lt;p&gt;主要是为了学习。看教程、看官方文档固然重要，但是实际地去实践是学习一个东西最快的方式。你能深刻地理解它能做成什么样子、为什么是这样的。而且现在 AI 的发展速度，让使用一个工具其实变得非常简单了。AI 视频也是一样，只要你肯去做，你就会学到很多东西。&lt;/p&gt;
@@ -141,4 +133,26 @@
 &lt;p&gt;我是通过该插件学习了一集老友记的英文，感觉还是非常不错的，跟我设想和需要的完全符合。以后除了日常要用用多邻国，还要多用用自己这个美剧学英语。以后一些好的电影，自己想看多遍的话，也可以用用这个。&lt;/p&gt;
 &lt;p&gt;其实我发现了一个现象：&lt;strong&gt;你理解了之后，注意力就不会被字幕分散了&lt;/strong&gt;，你会更集中地看到人物表演上的点，感觉跟原来靠字幕去理解是完全不同的。也希望因此自己的英语水平能够突飞猛进吧。&lt;/p&gt;
 &lt;p&gt;加油，学无止境呢。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/tian-liang-le-zuo-le-ge-meiju-yingyu-chajian/</guid><pubDate>Thu, 12 Nov 2026 16:28:00 +0800</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/tian-liang-le-zuo-le-ge-meiju-yingyu-chajian/</guid><pubDate>Thu, 12 Nov 2026 16:28:00 +0800</pubDate></item><item><title>把空房间租出去之后</title><link>/archives/ba-kong-fang-jian-zu-chu-qu-zhi-hou/</link><description>&lt;p&gt;因为买的是套三的房子，两间一直是空着的，所以我就租出去了。&lt;/p&gt;
+&lt;h2&gt;从长租开始&lt;/h2&gt;
+&lt;p&gt;之前是长租其中一个次卧。后面觉得，两个生活习惯不同的人生活在一起还是有很多不便的。理想很丰满，现实很骨感——你期望的是获得《老友记》般的室友，但实际这是非常难的事情。其实剧集那么长的《老友记》，大家最终也还是分开了的。&lt;/p&gt;
+&lt;p&gt;长租不顺，我后面就转变策略，做短租。&lt;/p&gt;
+&lt;h2&gt;最便宜的阳台小房间&lt;/h2&gt;
+&lt;p&gt;因为是自住房，我自己也住在里面，所以很少有人过来住。也有一些，我就说说这方面的经历。&lt;/p&gt;
+&lt;p&gt;其中有一个很小的阳台房间，设置得很便宜。我本意不是要租那个小房间，我自己都觉得不适合住人，但是来的客户都是选择小房间。为什么呢？因为足够便宜。&lt;/p&gt;
+&lt;p&gt;有那种是跟室友生活习惯不行、特意找个安静地方睡觉的；但租期很长的，都是那些没有工作、天天在家玩手机的人。这种租客有两个，都是我设置的最长时间一个月。&lt;/p&gt;
+&lt;p&gt;怎么说呢，他们会天天在家，天天窝在床上，饿了才去点外卖，天天对着手机。&lt;/p&gt;
+&lt;p&gt;而且可能是因为长期窝在床上，也有可能是洗澡的时候身上没有擦拭干净就钻到床上，每次我临近他们的房间，都有一股我无法忍受的酸霉味。平常见面也不打招呼，其实对我还是体验挺不好的。我想，或许这就是很多自己住家的人极少把房子租出去的原因吧。&lt;/p&gt;
+&lt;p&gt;可能他们本身的体验也不好。&lt;/p&gt;
+&lt;h2&gt;颠倒的作息&lt;/h2&gt;
+&lt;p&gt;他们的作息时间是颠倒的，要不就是天天盯着手机看视频，要不就是天天盯着手机玩游戏，跟我的作息时间完全不一样。&lt;/p&gt;
+&lt;p&gt;最近的那个还经常晚上玩游戏，是对战的那种。我发现很多年轻人喜欢玩这类游戏，我从来没有玩过，我侄女也玩。这种游戏我倒没什么需要去评判的，但在合租的场景下，晚上凌晨一直嘀嘀咕咕地说话，是对其他人造成非常大的困扰的。跟他说了之后才稍微好一些。&lt;/p&gt;
+&lt;h2&gt;往后打算调整的几点&lt;/h2&gt;
+&lt;p&gt;所以短租也感觉不太好。不管怎么样，也是一种特别的经验吧，还不至于放弃。但对于以后的调整策略，有以下几点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;小房间不开启那么长的时间了，尽量设置一些门槛。&lt;/li&gt;
+&lt;li&gt;入住的时候还是要沟通清楚。比如厨房的干湿分离不好要提醒，不要尿黄尿在马桶上，不要晚上十一点到早上九点吵吵闹闹，因为有猫要注意及时关纱窗等等。&lt;/li&gt;
+&lt;li&gt;只要互相生活不影响，相处陌生一点我也无所谓。毕竟每个人都有自己的习惯和调性，有的人就是讨厌沟通、讨厌社交。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这套房子我还是挺喜欢的，但如果它面积再小一点就更好了——刚刚是我一个人居住的那种面积，同时房贷也会少一些，我也就不用这么折腾了。但这可不是我所能左右的事情，所以往前看吧。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/ba-kong-fang-jian-zu-chu-qu-zhi-hou/</guid><pubDate>Sun, 15 Nov 2026 14:08:00 +0800</pubDate></item></channel></rss>
