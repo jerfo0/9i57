@@ -1,21 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 19 Nov 2026 04:56:49 +0800</lastBuildDate><pubDate>Thu, 19 Nov 2026 04:56:49 +0800</pubDate><item><title>身体开始需要刻意对待了</title><link>/archives/shen-ti-kai-shi-xu-yao-ke-yi-dui-dai/</link><description>&lt;h2&gt;肠胃在跟我抱怨&lt;/h2&gt;
-&lt;p&gt;年龄大了，感觉肠胃越来越不舒服。我猜大部分原因可能是运动太少了吧，肠胃没怎么蠕动；也有可能是跟饮食有关系，比如吃了太辣的。&lt;/p&gt;
-&lt;p&gt;实际上我知道自己肠胃不好，而且我一直是自己做饭，所以辣的话应该不太有问题。那会不会是具体某样东西有问题？&lt;/p&gt;
-&lt;p&gt;肚子不舒服，经常去上厕所，这就是肠胃在跟我抱怨：有些地方我做得不好。&lt;/p&gt;
-&lt;h2&gt;只能猜到大概，还是要去试&lt;/h2&gt;
-&lt;p&gt;只能猜到大概的原因，但还是要去尝试改变的方式。一方面多注意饮食，调整饮食；一方面多出去走动走动。可能随着天气变化受到影响，也是有关系的。总之，要随着身体的变化做出改变。&lt;/p&gt;
-&lt;p&gt;年轻的时候，身体适应各种糟糕的对待，都恢复得很快。但现在越来越不行了，需要我们刻意去好好对待它。&lt;/p&gt;
-&lt;h2&gt;衡习&lt;/h2&gt;
-&lt;p&gt;估计不久我就要上线一个小程序了，叫衡习，为的是养成一个健康的生活习惯。&lt;/p&gt;
-&lt;p&gt;健康其实对每个人都很重要。如果利于健康的习惯，能像刷牙一样是日复一日、不觉得麻烦的动作，是会很棒的。其实刷牙也是健康的习惯，我们都已经把它视为极为正常了。&lt;/p&gt;
-&lt;p&gt;也许这个小程序不会被很多人使用，但只要有一个人愿意用、觉得有价值，那这个事情就是值得的。我自己目前是觉得有用的，准备用这个实际去行动、实践这个事情——实际上每天可能占据不了多少时间。&lt;/p&gt;
-&lt;h2&gt;AI 时代，从自己需要的事出发&lt;/h2&gt;
-&lt;p&gt;我听过一句话：在 AI 时代，你不知道要做什么的话，那就思考生活中的各种事情，自己需要做、需要用的很多事情能不能去 AI 化，先从自身的角度去出发。&lt;/p&gt;
-&lt;p&gt;就像今晚，我突然点开了 WorkBuddy 的 1024 造物节，看了一下里面的产品，映入眼帘的就有出游 AA 记账的 Skill——我也做了这样的小程序。实际上这样的小程序有很多。我其实之前也想过，是不是以后小程序类的也可以做成 AI 工具上的 Skill？比如我就在 DeepSeek harness 上做了 C 盘清理的工具，虽然没有深度的优化、深度的使用，但确实是能用的。只是我会不会去用，可能需要另外考虑了。&lt;/p&gt;
-&lt;p&gt;而对于 AA 记账来说，在 WorkBuddy 上用是否会甚于在小程序上用呢？目前来看，无疑是小程序优势要大得多。但有一点我们可以看得明白：同样的事情，不同的平台都是可以很好地做出来的。&lt;/p&gt;
-&lt;p&gt;各种产品都可以去探索一下、借鉴一下，但还是要把它放在对应的场景下进行使用。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/shen-ti-kai-shi-xu-yao-ke-yi-dui-dai/</guid><pubDate>Tue, 27 Oct 2026 21:43:00 +0800</pubDate></item><item><title>好天气坏天气，和人群里的自己</title><link>/archives/hao-tian-qi-huai-tian-qi-he-ren-qun-li-de-zi-ji/</link><description>&lt;p&gt;人的心情确实跟天气是有关系的。阴雨绵绵、乌云密布的日子，心情远远不如晴朗有阳光的日子。今天天气真好，这本身就是好心情的一种体验；而坏天气的时候，往往就是沉默不语。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 22 Nov 2026 11:46:57 +0800</lastBuildDate><pubDate>Sun, 22 Nov 2026 11:46:57 +0800</pubDate><item><title>好天气坏天气，和人群里的自己</title><link>/archives/hao-tian-qi-huai-tian-qi-he-ren-qun-li-de-zi-ji/</link><description>&lt;p&gt;人的心情确实跟天气是有关系的。阴雨绵绵、乌云密布的日子，心情远远不如晴朗有阳光的日子。今天天气真好，这本身就是好心情的一种体验；而坏天气的时候，往往就是沉默不语。&lt;/p&gt;
 &lt;p&gt;所以环境对人的心理、甚至健康的影响还是特别大的。妈妈自从回到农村后，她自己感觉的状态和身体的反应，都比在城市里要好很多。所以选择一个对的环境，也算是对健康的一种投资吧。当然，有的地方虽然环境好，但新鲜感和一些生活的刺激是会少一些的。&lt;/p&gt;
 &lt;h2&gt;昨天的万圣节&lt;/h2&gt;
 &lt;p&gt;好像是昨天是万圣节吧。昨天跟朋友约了火锅，吃完火锅回来的时候，市区堵得很，街上很多 COS 装扮的人，感觉就是万圣节——年轻人集中出去进行这类活动。很多装扮的还是特别有意思的，但堵起来也挺烦。&lt;/p&gt;
@@ -147,4 +131,10 @@
 &lt;p&gt;我网龄还是很长的，其实也了解各种网络骗子，被诈骗很少。但其实有一些是因为同情别个借了一些人钱，后来对方就消失了，但我借出去的金额都会控制不那么多，我本身也不是有钱人嘛，所以我觉得我被骗的概率还是比较低的。&lt;/p&gt;
 &lt;p&gt;关键是完全没有诈骗的现象，所以我倒是有点烦这种防诈骗电话，不过说真话，那些真正被骗的人，开始也是很烦这种防诈骗电话的，认为别人在妨碍他赚大钱呢。&lt;/p&gt;
 &lt;p&gt;我猜或许跟我现在是自由工作者也有关系，不知道是不是。&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/gan-xiangmu-lingchen-danao-fangzha-dianhua/</guid><pubDate>Thu, 19 Nov 2026 12:12:00 +0800</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/gan-xiangmu-lingchen-danao-fangzha-dianhua/</guid><pubDate>Thu, 19 Nov 2026 12:12:00 +0800</pubDate></item><item><title>驻厂办公碎碎念</title><link>/archives/zhu-chang-ban-gong-sui-sui-nian/</link><description>&lt;p&gt;20号过来的，已经驻厂办公了2-3天了，一切都非常的顺利，需求也基本摸清楚了，还有一些细节在进一步确认中，同时也在写需求确认文档。&lt;/p&gt;
+&lt;p&gt;确认完成之后，可以继续在这边办公，也可以回家办公。我感觉的话实施起来应该会很顺利。我发现目前工厂的纸质化文件还是相当大的，大部分的流转还是依赖的单据，当然坐班的现在开始使用系统，但是生产过程还是很多是依赖纸质。&lt;/p&gt;
+&lt;p&gt;目前的这个改版会推动这个工厂进行在线化的汇报日报，这样一方面会解放统计这些日报的人员，整体来说也是对于工厂的使用人员有大的便利的。当然也会有一些师傅体现了排斥的心理，有些是接受的。&lt;/p&gt;
+&lt;p&gt;我是希望年前能把这个项目完工的，但这个也不一定的，尽力去做吧。今年的时间还很长，这会是一个好的起步吧。&lt;/p&gt;
+&lt;p&gt;我还蛮喜欢这类工作的。当然一整天都是专注某一类事情，人也会觉得有点累，所以偶尔要分配一些时间进行一下生活化，做一些其他的事情。比如现在写写日记，锻炼一些，玩玩游戏，看看视频等等。因为这几天脑子想的东西比较多，大部分还是工作上的，其实导致自己睡眠也并不太好。&lt;/p&gt;
+&lt;p&gt;人就是得劳逸结合，没必要为了工作过于拼命了。好好的享受生活，享受身边的风景也是很重要的嘛。&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (jerfo0)</author><guid isPermaLink="true">/archives/zhu-chang-ban-gong-sui-sui-nian/</guid><pubDate>Sun, 22 Nov 2026 19:45:00 +0800</pubDate></item></channel></rss>
